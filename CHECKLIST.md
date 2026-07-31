@@ -7,7 +7,7 @@ Status of GitHub achievements for @Il103.
 | YOLO | earned |
 | Quickdraw | earned |
 | Pull Shark | earned |
-| Galaxy Brain | in progress |
+| Galaxy Brain | answers posted (4) - waiting for acceptance |
 | Pair Extraordinaire | needs collaborator |
 | Starstruck | in progress |
 | Public Sponsor | needs sponsorship |
