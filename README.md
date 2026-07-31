@@ -1,6 +1,6 @@
 # Achievements
 
-B E R U - personal GitHub achievements playground.
+B E R U - personal GitHub achievements playground. !
 
 Current profile achievements:
 
